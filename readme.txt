@@ -1,9 +1,7 @@
 
 by:
 Tarek Bdarny
-id: 325347086
-Mohamed abo rya
-id: 213933138
+
 This project can aggregate movie information from The movie database (tmdb) api.
 You can select what you to aggregate, you can search by movie name,
 or the top rated, up coming, now playing and popular movies.
